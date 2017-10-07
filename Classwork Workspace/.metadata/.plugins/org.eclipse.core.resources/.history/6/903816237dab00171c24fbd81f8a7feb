@@ -1,0 +1,33 @@
+package pkgMain;
+import java.util.Scanner;
+
+public class ClassMain {
+		public static void main(String[] args) {
+			
+		//Start up scanner instance
+		Scanner input = new Scanner(System.in);
+		
+		//Get initial tuition cost from user
+		System.out.print("What is your initial tuition cost?");
+		double Tuition= input.nextDouble();
+		
+		//Get percentage rate from user
+		System.out.print("What is your university's percentage increase?");
+		double Percent = input.nextDouble()/100;
+		
+		//Stop scanner from causing resource leak
+		input.close();
+		
+		//Initialize cost variable
+		double Cost = 0;
+		//For loop to determine how much tuition will cost
+		for(int n=0; n<4;n++){
+			Tuition = Tuition + (Tuition*Percent);
+			Cost = Cost + Tuition;
+		}
+		
+		//Print out formatted tuition cost
+		System.out.printf("Your total cost of tuition is $%.2f ", Cost);
+		
+	}
+}

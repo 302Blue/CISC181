@@ -1,0 +1,67 @@
+package pkgMain;
+
+//Import scanner utility for user input
+import java.util.Scanner;
+public class QB_Class {
+	public static void main(String[] args) {
+	//Start up scanner instance
+	Scanner input = new Scanner(System.in);
+	
+	//Get user input for number of touch downs
+		System.out.print("How many touch downs does the player have?");
+		double TDs = input.nextInt();
+		
+	//Get user input for number of yards
+		System.out.print("How many yards does the player have?");
+		double Yards = input.nextInt();
+	
+	//Get user input for number of interceptions
+		System.out.print("How many interceptions does the player have?");
+		double INTs = input.nextInt();
+		
+	//Get user input for number of completions
+		System.out.print("How many completions does the player have?");
+		double COMPs = input.nextInt();
+		
+	//Get user input for number of attempted passes
+		System.out.print("How many attempted passes does the player have?");
+		double ATTs = input.nextInt();
+		
+	//Close input to prevent resource leak
+		input.close();
+		
+	//Equation One
+		double EqOne = ((COMPs/ATTs)-.3)/.2;
+		if (EqOne > 2.375){
+			EqOne = 2.375;}
+			else if(EqOne <0){
+				EqOne = 0;}
+	
+	//Equation Two
+		double EqTwo = ((Yards/ATTs)-3)/4;
+		if (EqTwo > 2.375){
+			EqTwo = 2.375;}
+			else if(EqTwo <0){
+				EqTwo = 0;}
+		
+	//Equation Three
+		double EqThree = (TDs/ATTs)/.05;
+		if (EqThree > 2.375){
+			EqThree = 2.375;}
+			else if(EqThree <0){
+				EqThree = 0;}
+		
+	//Equation Four
+		double EqFour = (.095-(INTs/ATTs))/.04;
+		if (EqFour > 2.375){
+			EqFour = 2.375;}
+			else if(EqFour <0){
+				EqFour = 0;}
+		
+	//QB Rating Equation
+		double PasserRating = ((EqOne+EqTwo+EqThree+EqFour)/.06);
+	
+	//Print PasserRating
+		System.out.printf("The quarterback's passer rating is %.2f",PasserRating);
+	}
+}

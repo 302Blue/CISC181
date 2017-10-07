@@ -1,0 +1,120 @@
+2017-08-30 01:51:57,270 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-30 01:53:04,919 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 702211664:Quiz3:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Quiz3\pom.xml.
+2017-08-30 01:53:06,497 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:PS2:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS2Starter\PS2\pom.xml.
+2017-08-30 01:53:39,258 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cis.cisc181.edu:Lab2Solution:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab3Starter\Lab3\pom.xml.
+2017-08-30 01:53:41,587 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:41,602 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 01:53:41,665 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:41,665 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:42,118 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: cis.udel.edu:RioJavaFX:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab4Starter\Lab4\pom.xml.
+2017-08-30 01:53:43,337 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:43,337 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab4Starter\Lab4\src\main\resources
+2017-08-30 01:53:43,337 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:43,337 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab4Starter\Lab4\src\test\resources
+2017-08-30 01:53:45,462 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.ud.cis.cisc181:RioBLL:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioBLL\pom.xml.
+2017-08-30 01:53:46,775 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:46,790 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:46,821 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:46,821 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:47,759 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.ud.cis.cisc181:RioClient:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioClient\pom.xml.
+2017-08-30 01:53:48,587 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:48,603 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 66 resources
+2017-08-30 01:53:49,119 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:49,134 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioClient\src\test\resources
+2017-08-30 01:53:49,931 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.ud.cis.cisc181:RioJabber:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioJabber\pom.xml.
+2017-08-30 01:53:50,416 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.ud.cis.cisc181:RioClient:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioClient\pom.xml.
+2017-08-30 01:53:50,963 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:50,978 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:51,009 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:51,009 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioJabber\src\test\resources
+2017-08-30 01:53:54,135 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:54,150 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 01:53:54,182 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:54,197 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:54,775 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:54,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab4Starter\Lab4\src\main\resources
+2017-08-30 01:53:54,807 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:54,822 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab4Starter\Lab4\src\test\resources
+2017-08-30 01:53:55,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:55,979 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:56,010 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:56,026 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:56,573 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:56,588 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:53:56,604 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:53:56,619 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioJabber\src\test\resources
+2017-08-30 01:54:00,222 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:00,238 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 66 resources
+2017-08-30 01:54:00,628 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:00,644 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Lab5Starter\Lab5.RioClient\src\test\resources
+2017-08-30 01:54:01,410 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:MidtermStarterProject:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\MidtermStarter\Midterm Coding Project\pom.xml.
+2017-08-30 01:54:01,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:01,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 01:54:01,879 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:01,879 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\MidtermStarter\Midterm Coding Project\src\test\resources
+2017-08-30 01:54:02,160 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:02,160 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:54:02,191 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:02,191 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS2Starter\PS2\src\test\resources
+2017-08-30 01:54:02,926 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:PS6:0.0.2-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\pom.xml.
+2017-08-30 01:54:03,363 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:03,379 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 01:54:03,441 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:03,441 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\test\resources
+2017-08-30 01:54:04,160 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:PS6_JavaFx:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.JavaFx\pom.xml.
+2017-08-30 01:54:04,723 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:04,723 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:54:04,738 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:04,738 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.JavaFx\src\test\resources
+2017-08-30 01:54:05,113 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 01:54:05,129 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Quiz3\src\main\resources
+2017-08-30 01:54:05,129 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 01:54:05,145 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\Quiz3\src\test\resources
+2017-08-30 01:54:06,738 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:06,738 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 01:54:06,770 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:06,770 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\MidtermStarter\Midterm Coding Project\src\test\resources
+2017-08-30 01:54:07,223 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:07,223 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 01:54:07,285 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:07,285 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\test\resources
+2017-08-30 01:54:08,004 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:08,004 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 01:54:08,020 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:54:08,020 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.JavaFx\src\test\resources
+2017-08-30 01:58:13,684 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:58:13,684 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 01:58:13,715 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 01:58:13,715 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\MidtermStarter\Midterm Coding Project\src\test\resources
+2017-08-30 02:04:32,225 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 702211664:ProblemSet3:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS3Starter\PS3\pom.xml.
+2017-08-30 02:04:32,490 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 02:04:32,537 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS3Starter\PS3\src\main\resources
+2017-08-30 02:04:32,553 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-30 02:04:32,569 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS3Starter\PS3\src\test\resources
+2017-08-30 02:04:33,875 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:04:33,875 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\main\resources
+2017-08-30 02:04:33,875 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:04:33,891 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\test\resources
+2017-08-30 02:04:33,938 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:04:33,953 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.JavaFx\src\main\resources
+2017-08-30 02:04:33,953 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:04:33,969 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.JavaFx\src\test\resources
+2017-08-30 02:05:13,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:13,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\main\resources
+2017-08-30 02:05:13,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:13,434 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\ProblemSet6.DAL\src\test\resources
+2017-08-30 02:05:43,566 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:PS6:0.0.2-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\PS6.DAL\pom.xml.
+2017-08-30 02:05:43,988 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:PS6_JavaFx:0.0.1-SNAPSHOT @ C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\PS6.JavaFx\pom.xml.
+2017-08-30 02:05:45,785 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:45,800 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 02:05:45,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:45,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\PS6.DAL\src\test\resources
+2017-08-30 02:05:46,316 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:46,332 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 02:05:46,347 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 02:05:46,347 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Drew\OneDrive\College\CODING\CISC181\Classwork Workspace\PS6Starter\PS6.JavaFx\src\test\resources
+2017-08-30 22:05:28,962 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-30 22:05:55,725 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 22:05:55,732 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-08-30 22:05:55,742 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 22:05:55,743 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
